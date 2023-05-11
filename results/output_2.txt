@@ -1,0 +1,10 @@
+trying to push 3
+trying to push 4
+trying to push 3
+trying to push 2
+trying to push 1
+popping 1
+popping 2
+popping 4
+popping 3
+popping -1
